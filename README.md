@@ -24,9 +24,9 @@ I am a Fullstack web developer with 8 years of previous experience as an archite
 <div>
 
 <a href="#">
-<img height="100px" src="https://github-readme-stats.vercel.app/api?username=rihan-a&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
-<img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihan-a&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426" />
-<img  height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=rihan-a&" />
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=rihan-a&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rihan-a&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426" />
+<img  height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=rihan-a&" />
 </a>
 
 </div>
