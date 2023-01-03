@@ -4,21 +4,21 @@ I am a Fullstack web developer with 8 years of previous experience as an archite
 
 ### Languages
 
-![Html](https://img.shields.io/badge/-Html5-000?&logo=html5)
-![css](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Html](https://img.shields.io/badge/-Html5-000?&logo=html5&style=for-the-badge)
+![css](https://img.shields.io/badge/-CSS3-000?&logo=css3&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=for-the-badge)
 
 ### Technologies
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Vue](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![socket io](https://img.shields.io/badge/-Socket.io-000?&logo=socket.io)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![React](https://img.shields.io/badge/-React-000?&logo=React&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&style=for-the-badge)
+![Vue](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express&style=for-the-badge)
+![socket io](https://img.shields.io/badge/-Socket.io-000?&logo=socket.io&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=for-the-badge)
 
 
 
