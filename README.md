@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Fullstack web developer with 8 years of previous experience as an architect and designer, started self-learning web development 10 months ago, and recently completed an intensive 3-month full-stack web development bootcamp and seeking an entry-level position to continue learning and growing.
+I am a Full-Stack web developer with 8 years of previous experience as an architect and designer, started self-learning web development 10 months ago, and recently completed an intensive 3-month full-stack web development bootcamp and seeking an entry-level position to continue learning and growing.
 
 ### Languages
 
