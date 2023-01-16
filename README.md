@@ -20,6 +20,7 @@ Currently learning TypeScript and Python.
 ![Vue](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express&style=for-the-badge)
+![postgres](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql&style=for-the-badge)
 ![socket io](https://img.shields.io/badge/-Socket.io-000?&logo=socket.io&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=F90&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=for-the-badge)
