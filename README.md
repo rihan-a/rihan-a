@@ -7,10 +7,10 @@ Currently learning MongoDB, and Sass.
 
 ### Languages
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=for-the-badge)
 ![Html](https://img.shields.io/badge/-Html5-000?&logo=html5&style=for-the-badge)
 ![css](https://img.shields.io/badge/-CSS3-000?&logo=css3&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=for-the-badge)
 
 ### Technologies
