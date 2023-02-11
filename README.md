@@ -10,7 +10,7 @@ Currently learning MongoDB, and Sass.
 
 Check out my latest project - my personal design portfolio https://rihan.info
 
-<img src="https://user-images.githubusercontent.com/90706137/218161734-3d9b0c03-23ec-454b-b715-ad865010b2d2.jpg" alt="portfolio" width="250" style="border-radius:10px;"/> 
+<img src="https://user-images.githubusercontent.com/90706137/218161734-3d9b0c03-23ec-454b-b715-ad865010b2d2.jpg" alt="portfolio" width="250"/> 
 
 ---
 
