@@ -4,7 +4,7 @@ I am a Full-Stack web developer with many years of previous experience as an arc
 
 ---
 
-Currently learning Python, MongoDB, and Sass.
+Currently learning MongoDB, and Sass.
 
 ---
 
