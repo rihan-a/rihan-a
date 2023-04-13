@@ -4,7 +4,7 @@ I am a Full-Stack web developer with many years of previous experience as an arc
 
 ---
 
-Currently learning React Native.
+Currently learning NestJs, Microservices architecture, TypeORM.
 
 ---
 
