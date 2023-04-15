@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a Full-Stack web developer with many years of previous experience as an architect and designer, started self-learning web development a year ago, and recently completed an intensive 12-weeks full-stack web development bootcamp and currently working as a software engineer at BuildingMinds in Berlin.
+I am a Full-Stack web developer with many years of previous experience as an architect and designer, started self-learning web development a year ago, and recently completed an intensive 12-weeks full-stack web development bootcamp.
+Currently working as a software engineer at BuildingMinds in Berlin.
 
 ---
 
