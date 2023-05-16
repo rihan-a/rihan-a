@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Full-Stack web developer with many years of previous experience as an architect and designer, started self-learning web development a year ago, and recently completed an intensive 12-weeks full-stack web development bootcamp.
-Currently working as a software engineer at BuildingMinds in Berlin.
+Currently working as a software Developer at BuildingMinds in Berlin.
 
 ---
 
@@ -45,6 +45,7 @@ Check out my social network - CREATORSBOOK https://creatorsbook.de
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=for-the-badge)
  ![git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F90&style=for-the-badge)
 ![socket io](https://img.shields.io/badge/-Socket.io-000?&logo=socket.io&style=for-the-badge)
+  
   
 ### Graphics
   
