@@ -6,7 +6,7 @@ Currently working as a Software Developer at BuildingMinds in Berlin.
 
 ---
 
-Currently learning NestJs, Microservices architecture, TypeORM.
+Currently learning NestJs, TypeORM.
 
 ---
 
