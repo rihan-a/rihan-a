@@ -6,10 +6,6 @@ Currently working as a Software Developer at BuildingMinds in Berlin.
 
 ---
 
-Currently learning NestJs, TypeORM.
-
----
-
 Check out my latest project - my personal portfolio Architecture / Design  https://rihan.info
 
 <img src="https://user-images.githubusercontent.com/90706137/218161734-3d9b0c03-23ec-454b-b715-ad865010b2d2.jpg" alt="portfolio" width="250"/> 
