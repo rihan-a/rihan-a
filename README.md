@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I am a Full-Stack Web Developer with many years of previous experience as an architect and designer, started self-learning web development a year ago, and recently completed an intensive 12-weeks full-stack web development bootcamp.
-
-I work as a Full Stack Developer at BuildingMinds in Berlin and currently learning Angular.
+I am a self-taught Junior Full Stack Web Developer with around two years of experience in building scalable, user-centric applications. My transition into software development from architecture and project management was driven by a passion for creating impactful digital solutions, supported by rigorous self-study and completing a Full Stack Web Development Bootcamp at Spiced Academy,Berlin.
 
 ---
 
-Check out my latest project - my personal portfolio Architecture / Design  https://rihan.info
+Check out my personal portfolio Architecture / Design  https://rihan.info
 
 [<img src="https://user-images.githubusercontent.com/90706137/218161734-3d9b0c03-23ec-454b-b715-ad865010b2d2.jpg" alt="portfolio" width="250"/>](https://rihan.info) 
 
