@@ -4,15 +4,20 @@ I am a self-taught Junior Full Stack Web Developer with around two years of expe
 
 ---
 
-Check out my personal portfolio Architecture / Design  https://rihan.info
+## 🚀 Latest Project: GenSpace AI – AI-Powered Interior Design
+GenSpace AI is a generative AI-powered tool that transforms text prompts into high-quality, photorealistic interior designs. Trained on real-world interior spaces and leveraging advanced AI models, it helps users visualize stunning interiors effortlessly.
+![GenSpace Ai](https://github.com/user-attachments/assets/df463c83-c717-41b6-bf5e-bf7749bfc939)
 
-[<img src="https://user-images.githubusercontent.com/90706137/218161734-3d9b0c03-23ec-454b-b715-ad865010b2d2.jpg" alt="portfolio" width="250"/>](https://rihan.info) 
+🔹 Try it now (Beta): 👉 www.rihan.info/GenAI
+
+
+🔹 Tech Stack:
+React | TypeScript | JavaScript | Node.js | Express | MongoDB | AWS S3 | Replicate API | Flux.1 Model + Custom-Trained LoRa
 
 ---
 
-Check out my social network - CREATORSBOOK https://creatorsbook.onrender.com
-
-[<img src="https://user-images.githubusercontent.com/90706137/219966561-5b495215-1cc1-4d3b-8c53-d0789a5121c9.jpg" alt="portfolio" width="250"/>](https://creatorsbook.onrender.com)
+### Check out my social network - CREATORSBOOK https://creatorsbook.onrender.com
+![1737925747442](https://github.com/user-attachments/assets/1a2308b6-f082-496d-9161-c81ee6721cd2)
 
 ---
 
