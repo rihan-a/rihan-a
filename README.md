@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am a self-taught Junior Full Stack Web Developer with around two years of experience in building scalable, user-centric applications. My transition into software development from architecture and project management was driven by a passion for creating impactful digital solutions, supported by rigorous self-study and completing a Full Stack Web Development Bootcamp at Spiced Academy,Berlin.
+I am a self-taught Full Stack Web Developer with over two years of experience in building scalable, user-centric applications. My transition into software development from architecture and project management was driven by a passion for creating impactful digital solutions, supported by rigorous self-study and completing a Full Stack Web Development Bootcamp at Spiced Academy,Berlin.
 
 ---
 
