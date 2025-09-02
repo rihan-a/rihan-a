@@ -1,14 +1,12 @@
 ### Hi there!
 
-I am a self-taught Full Stack Web Developer with over two years of experience in building scalable, user-centric applications. My transition into software development from architecture and project management was driven by a passion for creating impactful digital solutions, supported by rigorous self-study and completing a Full Stack Web Development Bootcamp at Spiced Academy,Berlin.
+I am a self-taught Full Stack Web Developer with over two years of experience in building scalable, user-centric applications. My transition into software development from architecture and project management was driven by a passion for creating impactful digital solutions, supported by rigorous self-study and completing a Full Stack Web Development Bootcamp at Spiced Academy, Berlin.
 
 ---
 
-## 🚀 Latest Project: GenSpace AI – AI-Powered Interior Design
+## Latest Project: GenSpace AI – AI-Powered Interior Design
 GenSpace AI is a generative AI-powered tool that transforms text prompts into high-quality, photorealistic interior designs. Trained on real-world interior spaces and leveraging advanced AI models, it helps users visualize stunning interiors effortlessly.
 [![GenSpace Ai](https://github.com/user-attachments/assets/df463c83-c717-41b6-bf5e-bf7749bfc939)](https://rihan.info/GenAI)
-
-[![Alt Text](image-url)](link-url)
 
 
 🔹 Try it now (Beta): 👉 https://rihan.info/GenAI
