@@ -1,25 +1,50 @@
-### Hi there!
+# Hi there!
 
-I am a self-taught Full Stack Web Developer with over two years of experience in building scalable, user-centric applications. My transition into software development from architecture and project management was driven by a passion for creating impactful digital solutions, supported by rigorous self-study and completing a Full Stack Web Development Bootcamp at Spiced Academy, Berlin.
+I’m a self-taught full-stack product engineer and a builder with a background in architecture, design, and project leadership.
 
----
+Right now I’m building **Velvet AI**, an AI fashion startup focused on creating a more personal, visual, and intelligent way to shop online.
 
-## Latest Project: GenSpace AI – AI-Powered Interior Design
-GenSpace AI is a generative AI-powered tool that transforms text prompts into high-quality, photorealistic interior designs. Trained on real-world interior spaces and leveraging advanced AI models, it helps users visualize stunning interiors effortlessly.
-[![GenSpace Ai](https://github.com/user-attachments/assets/df463c83-c717-41b6-bf5e-bf7749bfc939)](https://rihan.info/GenAI)
+Velvet is a live **iOS app** and an evolving **web app** built around conversational fashion discovery, digital doubles, virtual try-on, personalization, and B2B AI-powered product intelligence soon.
 
+I designed the product experience end-to-end across **UX/UI, web, and product flows**, and on the technical side: Virtual try on pipplines, avatar creation, agentic ai search, recommendations, catalog enrichment, and backend systems.
 
-🔹 Try it now (Beta): 👉 https://rihan.info/GenAI
+## Current Startup: Velvet AI
+<img width="5000" height="2624" alt="github-velvet-ai" src="https://github.com/user-attachments/assets/cbcbd4cd-428c-4d2e-a32e-34deb753eb75" />
 
+At Velvet, I’m working on:
 
-🔹 Tech Stack:
-React | TypeScript | JavaScript | Node.js | Express | MongoDB | AWS S3 | Replicate API | Flux.1 Model + Custom-Trained LoRa
+- AI conversational fashion search instead of static filters and endless product grids
+- digital double avatar and virtual try-on experiences
+- AI-powered product intelligence and catalog enrichment for business 
+- personalization systems built around user intent, taste, and shopping behavior, (Velvet taste graph)
+- cross-brand outfit discovery and recommendation flows
 
----
+## Tech I work with
 
-### Check out my social network - CREATORSBOOK https://creatorsbook.onrender.com
-[![creatorsbook](https://github.com/user-attachments/assets/1a2308b6-f082-496d-9161-c81ee6721cd2)](https://creatorsbook.onrender.com)
+**Frontend / Product**  
+React, React Native, TypeScript, JavaScript, HTML, CSS
 
+**Backend / Systems**  
+Node.js, Express, Pythin, scalable backend architecture, catalog processing systems
+
+**AI / Search / Personalization**  
+Generative AI pipelines, diffusion-based try-on workflows, embeddings, semantic product structure, personalization systems, agent systems, chatbots, RAG systems, LangGraph, LangChain, LLM harnesses, ComfyUi, Diffusion models workflows.
+
+**Deployment / Infrastructure**  
+AWS, containerized deployments, and Amazon ECS
+
+## Previous Project: GenSpace AI
+
+Before Velvet, I built **GenSpace AI**, an AI-powered interior design product that transforms prompts into photorealistic interior concepts.
+
+That gave me hands-on experience building real generative AI product workflows, not just demos.
+
+## Links
+
+- Velvet Website: [velvet.ai](https://velvet.ai)
+- Velvet iOS App: [velvet.ai/app](https://velvet.ai/app)
+- Personal Website: [rihan.info](https://rihan.info)
+- GenSpace AI: [rihan.info/GenAI](https://rihan.info/GenAI)
 ---
 
 ### Languages
@@ -63,10 +88,3 @@ React | TypeScript | JavaScript | Node.js | Express | MongoDB | AWS S3 | Replica
 ### 🚀 Always learning & building! Feel free to connect!
 
 ---
-
-
-
-
-
-
-
