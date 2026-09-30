@@ -41,8 +41,8 @@ That gave me hands-on experience building real generative AI product workflows, 
 
 ## Links
 
-- Velvet Website: [velvet.ai](https://velvet.ai)
-- Velvet iOS App: [velvet.ai/app](https://velvet.ai/app)
+- Velvet Website: ([IOS APP](https://apps.apple.com/us/app/velvet-ai/id6757399676?ct=website&mt=8))
+- Velvet iOS App: [thevelvet-app.com](https://thevelvet-app.com)
 - Personal Website: [rihan.info](https://rihan.info)
 - GenSpace AI: [rihan.info/GenAI](https://rihan.info/GenAI)
 ---
